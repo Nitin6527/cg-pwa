@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nitin6527/cg-pwa/static/css/main.f855e6bc.css",
+    "main.js": "/Nitin6527/cg-pwa/static/js/main.864588d5.js",
+    "static/js/453.1b59296f.chunk.js": "/Nitin6527/cg-pwa/static/js/453.1b59296f.chunk.js",
+    "index.html": "/Nitin6527/cg-pwa/index.html",
+    "main.f855e6bc.css.map": "/Nitin6527/cg-pwa/static/css/main.f855e6bc.css.map",
+    "main.864588d5.js.map": "/Nitin6527/cg-pwa/static/js/main.864588d5.js.map",
+    "453.1b59296f.chunk.js.map": "/Nitin6527/cg-pwa/static/js/453.1b59296f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.864588d5.js"
+  ]
+}
